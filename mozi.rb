@@ -1,16 +1,16 @@
 a = 'abcdef'
 puts a
 
-#式展開や特殊文字を使う場合はダブルクォートを使う
+# 式展開や特殊文字を使う場合はダブルクォートを使う
 
-puts "Ruby\nProgramming"  # \nで改行
+puts "Ruby\nProgramming" # \nで改行
 
 first_name = 'Yuta'
 last_mame = 'Nakamura'
 
 puts "My name is #{first_name} #{last_mame}."
 
-#文字列の連結
+# 文字列の連結
 
 puts 'Yuta' + ' ' + 'Nakamura'
 
