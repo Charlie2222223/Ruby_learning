@@ -4,9 +4,9 @@ puts 1 < 2
 puts 1 <= 2
 puts 1 > 2
 puts 1 == 1
-puts 1 !=2
+puts 1 != 2
 
-#and or not
+# and or not
 
 t1 = true
 t2 = true
